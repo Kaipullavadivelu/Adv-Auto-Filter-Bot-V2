@@ -24,7 +24,7 @@ Powered BY @MSPmoviesOffl
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot For MSP</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/BaashaBaii">BaashaBaii</a></i></b>
+<b>➥ Creator</b> : <b><a href="https://t.me/BaashaBaii">BaashaBaii</a></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 

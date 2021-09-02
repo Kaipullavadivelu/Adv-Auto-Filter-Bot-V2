@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/baashabaii'),
+        InlineKeyboardButton('Developers', url='https://t.me/BaashaBaii'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/MSPbots')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/MSPdiscussion')

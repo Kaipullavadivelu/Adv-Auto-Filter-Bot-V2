@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/baashabaii'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/baashabaii/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/MSPbots')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/MSPdiscussion')
     ],[

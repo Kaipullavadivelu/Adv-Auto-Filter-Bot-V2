@@ -15,7 +15,8 @@ Powered BY @MSPmoviesOffl
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
-<b>Join @MSPdiscusion Send Any Movies Name and Get It</b>
+<b>Join @MSPdiscussion Send Any Movies Name and Get It</b>
+
 <i>Note: Google It any send the Correct Speelling</i>
 
 <b>@MSPmoviesOffl</b>

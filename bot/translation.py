@@ -7,9 +7,9 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <b>Am Just A Advance Auto Filter Bot in @MSPdiscussion😉
 
-Join Our Discussion Goup To Use the BOT✌️
+Join Our Discussion Group To Use the BOT✌️
 
-Powered BY @MSPmoviesOffl
+Powered BY @MSPbots
 </b>"""    
     
     HELP_TEXT = """
@@ -17,7 +17,7 @@ Powered BY @MSPmoviesOffl
 
 <b>Join @MSPdiscussion Send Any Movies Name and Get It</b>
 
-<i>Note: Google It any send the Correct Speelling</i>
+<b><i>Note: Google It any send the Correct Spelling</i></b>
 
 <b>@MSPmoviesOffl</b>
 """
@@ -28,7 +28,7 @@ Powered BY @MSPmoviesOffl
 
 <b>➥ Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ Channel</b> : <i><a href="https://t.me/MSPmoviesOffl">MSPmoviesOffl </a></i>
 
 <b>➥ Source Code</b> : <i><a href="https://t.me/MSPbots">Click Me</a></i>
 """

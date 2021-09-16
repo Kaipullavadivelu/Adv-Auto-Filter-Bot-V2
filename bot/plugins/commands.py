@@ -37,8 +37,7 @@ async def start(bot, update):
                                 (
                                     'Join Our Channel', url="https://t.me/MSPmoviesOffl"
                                 )
-                        ]
-                        [
+                        ],[
                             InlineKeyboardButton
                                 (
                                     'Join Our Discussion', url="https://t.me/MSPdiscussion"

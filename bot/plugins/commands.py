@@ -28,14 +28,20 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = <b>caption<\b>,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN Our Channel', url="https://t.me/MSPmoviesOffl"
+                                    'Join Our Channel', url="https://t.me/MSPmoviesOffl"
+                                )
+                        ]
+                        [
+                            InlineKeyboardButton
+                                (
+                                    'Join Our Discussion', url="https://t.me/MSPdiscussion"
                                 )
                         ]
                     ]
